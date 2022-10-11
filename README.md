@@ -1,2 +1,2 @@
 # jornadaDev-EBAC
-Currículo feito na jornada Dev Ebac
+Currículo feito na jornadaDev da Ebac usando HTML e CSS
