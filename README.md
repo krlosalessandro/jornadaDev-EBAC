@@ -1,2 +1,2 @@
 # jornadaDev-EBAC
-Currículo jornada Dev Ebac
+Currículo feito na jornada Dev Ebac
